@@ -1,0 +1,3 @@
+# algorithm
+
+LeetCode Question Solution.
